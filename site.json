@@ -80,6 +80,22 @@
       }
     },
     {
+      "id": "item-11ac110a-d9d7-4917-92b6-2bea37e917e1",
+      "indent": 0,
+      "location": "pages/item-11ac110a-d9d7-4917-92b6-2bea37e917e1/index.html",
+      "slug": "welcome/1.-belajar-fundamental-front-end-web-development.docx",
+      "order": 0,
+      "parent": "item-fe4da09a-b9cf-483d-b2d5-6397785f61fe",
+      "title": "1. Belajar Fundamental Front-End Web Development.docx",
+      "description": "",
+      "metadata": {
+        "created": 1723822091,
+        "updated": 1723822091,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef",
       "indent": 0,
       "location": "pages/item-5488fd2d-2976-4bf3-9925-ebae7a26b8ef/index.html",
