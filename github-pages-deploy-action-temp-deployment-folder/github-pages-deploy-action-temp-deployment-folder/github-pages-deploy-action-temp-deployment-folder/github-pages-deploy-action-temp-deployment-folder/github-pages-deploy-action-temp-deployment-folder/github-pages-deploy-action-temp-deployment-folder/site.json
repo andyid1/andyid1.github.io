@@ -5,7 +5,12 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "haxtheweb",
       "logo": "assets/banner.jpg",
@@ -18,20 +23,21 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1723216821,
+      "updated": 1723821120,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
       "version": "9.0.5",
       "static": {},
-      "tags": "website, haxtheweb, hax"
+      "tags": "website, haxtheweb, hax",
+      "domain": null
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@lrnwebcomponents/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@lrnwebcomponents/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "haxor-slevin",
+      "path": "@haxtheweb/haxor-slevin/haxor-slevin.js",
+      "name": "Haxor Blog theme",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
         "image": "",
         "imageAlt": "",
@@ -71,6 +77,22 @@
         "videos": {},
         "images": {},
         "status": ""
+      }
+    },
+    {
+      "id": "item-11ac110a-d9d7-4917-92b6-2bea37e917e1",
+      "indent": 0,
+      "location": "pages/item-11ac110a-d9d7-4917-92b6-2bea37e917e1/index.html",
+      "slug": "welcome/1.-belajar-fundamental-front-end-web-development.docx",
+      "order": 0,
+      "parent": "item-fe4da09a-b9cf-483d-b2d5-6397785f61fe",
+      "title": "1. Belajar Fundamental Front-End Web Development.docx",
+      "description": "",
+      "metadata": {
+        "created": 1723822091,
+        "updated": 1723822091,
+        "images": [],
+        "videos": []
       }
     },
     {
