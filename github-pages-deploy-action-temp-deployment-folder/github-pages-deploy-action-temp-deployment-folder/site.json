@@ -87,12 +87,16 @@
       "order": 0,
       "parent": "item-fe4da09a-b9cf-483d-b2d5-6397785f61fe",
       "title": "1. Belajar Fundamental Front-End Web Development.docx",
-      "description": "",
+      "description": "ECMAScript 6\nPendahuluan ECMAScript 6\nBahasa JavaScript didefinisikan dalam standar&#160;ECMA-262. Bahasa yang didefinisikan menggunakan standar ini disebut dengan ECMAScript. Browser dan Node.js ada",
       "metadata": {
         "created": 1723822091,
-        "updated": 1723822091,
-        "images": [],
-        "videos": []
+        "updated": 1730512939,
+        "images": {},
+        "videos": {},
+        "published": false,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 114
       }
     },
     {
@@ -106,7 +110,7 @@
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1723217275,
+        "updated": 1743824757,
         "images": {},
         "videos": {},
         "published": true,
